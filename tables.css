@@ -1,0 +1,4 @@
+//create table with border 1px and solid black color 
+table, th, td {
+    border: 1px solid black;
+}
